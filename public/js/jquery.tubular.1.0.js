@@ -28,7 +28,7 @@
         volumeUpClass: 'tubular-volume-up',
         volumeDownClass: 'tubular-volume-down',
         increaseVolumeBy: 10,
-        start: 30
+        start: 32,
     };
 
     // methods
